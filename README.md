@@ -20,6 +20,8 @@ Use : bag.py [-h] [-t %] [-ms] [-st] [-op %] [-ds] [-p2s %] [-p2pf %]
 ```
 > :warning: No need to write the front digit.
 
+You can create your own file with patterns by specifying each one from a new line (without spaces).
+
 ## Example
 ```
 Example:
